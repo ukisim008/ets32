@@ -4,5 +4,5 @@ int main ()
 {
 printf("dobro dosli\n");
 
-return 0;
+
 }
