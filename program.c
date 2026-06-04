@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main ()
-{
-printf("dobro dosli\n");
-
+{;
+printf("zdravo\n");
 return 0;
 }
